@@ -1,0 +1,187 @@
+{
+  "user": [
+    {
+      "id": 0,
+      "role": "Sales Manager",
+      "company": "SRG International",
+      "exp": "2-5",
+      "salary": "5,00,000 - 7,00,000 PA.",
+      "location": "Mumbai"
+    },
+    {
+      "id": 1,
+      "role": "Account Officer - Banking",
+      "company": "KAYPEE Food Products",
+      "exp": "4-7",
+      "salary": "6,00,000 - 10,00,000 PA.",
+      "location": "Hyderabad"
+    },
+    {
+      "id": 2,
+      "role": "SAP FICO Consultant",
+      "company": "Tech Mahindra",
+      "exp": "3-5",
+      "salary": "10,00,000 - 15,00,000 PA.",
+      "location": "Bangalore"
+    },
+    {
+      "id": 3,
+      "role": "Associate developer",
+      "company": "TCS",
+      "exp": "1-3",
+      "salary": "3,00,000 - 5,00,000 PA.",
+      "location": "Chennei"
+    },
+    {
+      "id": 4,
+      "role": "Assistant Manager",
+      "company": "Indigo",
+      "exp": "1-6",
+      "salary": "Not Disclosed",
+      "location": "remote"
+    },
+    {
+      "id": 5,
+      "role": "Sales Manager",
+      "company": "SRG International",
+      "exp": "2-5",
+      "salary": "5,00,000 - 7,00,000 PA.",
+      "location": "Mumbai"
+    },
+    {
+      "id": 6,
+      "role": "Account Officer - Banking",
+      "company": "KAYPEE Food Products",
+      "exp": "4-7",
+      "salary": "6,00,000 - 10,00,000 PA.",
+      "location": "Hyderabad"
+    },
+    {
+      "id": 7,
+      "role": "SAP FICO Consultant",
+      "company": "Tech Mahindra",
+      "exp": "3-5",
+      "salary": "10,00,000 - 15,00,000 PA.",
+      "location": "Bangalore"
+    },
+    {
+      "id": 8,
+      "role": "Associate developer",
+      "company": "TCS",
+      "exp": "1-3",
+      "salary": "3,00,000 - 5,00,000 PA.",
+      "location": "Chennei"
+    },
+    {
+      "id": 9,
+      "role": "Assistant Manager",
+      "company": "Indigo",
+      "exp": "1-6",
+      "salary": "Not Disclosed",
+      "location": "remote"
+    }
+  ],
+  "Applied": [
+    {
+      "Name": "asdfasdf",
+      "Email": "asdfa@gmail.com",
+      "Mobile": "9655555555",
+      "Message": "askfdasdfasdf",
+      "id": 1
+    },
+    {
+      "Name": "asfasdf",
+      "Email": "sdfoia@gmail.com",
+      "Mobile": "9652003532",
+      "Message": "asfasdfasdf",
+      "id": 2
+    },
+    {
+      "Name": "sadfasdfas",
+      "Email": "asdf@gamil.com",
+      "Mobile": "5566526465",
+      "Message": "sadfasdfase",
+      "id": 3
+    },
+    {
+      "Name": "asdfasdf",
+      "Email": "asdfasd@gmail.com",
+      "Mobile": "9652033563",
+      "Message": "fknaoeinfee",
+      "id": 4
+    },
+    {
+      "Name": "sdfasdf",
+      "Email": "asdfa@gmail.com",
+      "Mobile": "9655665655",
+      "Message": "fuawnoefiwe",
+      "id": 5
+    },
+    {
+      "Name": "sadfasdf",
+      "Email": "asdfasdf",
+      "Mobile": "asdfasdf",
+      "Experience": "asefasdf",
+      "id": 6
+    },
+    {
+      "Name": "asdfasd",
+      "Email": "asdfasdf@gmail.com",
+      "Mobile": "asfdoknasd",
+      "Message": "asdfasdfaorif",
+      "id": 7
+    },
+    {
+      "Name": "Raja",
+      "Email": "Raja@gamil.com",
+      "Mobile": "9652033563",
+      "Message": "afnosaenfe",
+      "id": 8
+    },
+    {
+      "JobId": "0",
+      "Name": "asdfasdf",
+      "Email": "sadfasdfsa@gmail.com",
+      "Mobile": "9652033563",
+      "address": "sdfasfsdf",
+      "Experience": "sdfsadfsadasfs",
+      "id": 9
+    },
+    {
+      "Name": "fasdfasdf",
+      "Email": "sadf@gamil.com",
+      "Mobile": "aofnafosds",
+      "Message": "gnasodnfsodf",
+      "id": 10
+    },
+    {
+      "Name": "sadfasdf",
+      "Email": "asdf@gmail.com",
+      "Mobile": "sadfknaooo",
+      "Message": "sodfnasodfn",
+      "id": 11
+    },
+    {
+      "Name": "asdfasdf",
+      "Email": "asdfasfd@gmail.com",
+      "Mobile": "9652033563",
+      "Message": "sdfsadfssssd",
+      "id": 12
+    },
+    {
+      "Name": "asfdasdf",
+      "Email": "sadf@gamil.com",
+      "Mobile": "9652033563",
+      "Message": "sdfjnosasofn",
+      "id": 13
+    },
+    {
+      "Name": "sdfsa",
+      "Email": "Rk@gmail.com",
+      "Mobile": "9652033563",
+      "Message": "skfafsadkfls",
+      "id": 14
+    }
+  ],
+  "contact_info": []
+}
